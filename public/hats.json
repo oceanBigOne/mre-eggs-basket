@@ -1,0 +1,45 @@
+{
+    "none": {
+        "displayName": "Remove"
+    },
+    "basketLeft": {
+        "displayName": "Left hand",
+        "resourceName": "eggBasket.glb",
+        "scale": {
+            "x": 0.5,
+            "y": 0.5,
+            "z": 0.5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "position": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "attachPoint": "left-hand"
+    },
+    "basketRight": {
+        "displayName": "Right hand",
+        "resourceName": "eggBasket.glb",
+        "scale": {
+            "x": 0.5,
+            "y": 0.5,
+            "z": 0.5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "position": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "attachPoint": "right-hand"
+    }
+}

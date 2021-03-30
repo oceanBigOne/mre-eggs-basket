@@ -18,7 +18,7 @@
         "position": {
             "x": -0.1,
             "y": -0.092,
-            "z": 0.05
+            "z": 0.04
         },
         "attachPoint": "left-hand"
     },
@@ -38,7 +38,7 @@
         "position": {
             "x": -0.1,
             "y": -0.092,
-            "z": 0.05
+            "z": 0.04
         },
         "attachPoint": "right-hand"
     }

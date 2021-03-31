@@ -1,8 +1,5 @@
 {
-    "none": {
-        "displayName": "Remove"
-    },
-    "basketLeft": {
+     "basketLeft": {
         "displayName": "Left hand",
         "resourceName": "eggBasket.glb",
         "scale": {
